@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+  <recipe>
+    <name>Kibe</name>
+    <description>Kibe delicioso</description>
+    <price>10</price>
+  </recipe>
+  <recipe>
+    <name>Pavê</name>
+    <description>Pra ver ou pra comer?</description>
+    <price>25</price>
+  </recipe>
+</recipes>
